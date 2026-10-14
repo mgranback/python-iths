@@ -93,4 +93,4 @@ Starta om datorn efteråt. Microsofts dokumentation:
 
 ---
 
-Nästa steg: [30-texteditor.md](onboarding/30-texteditor.md)
+Nästa steg: [30-texteditor.md](30-texteditor.md)

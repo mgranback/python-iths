@@ -70,4 +70,4 @@ notebooks kan även öppnas via **Jupyter-extensionen i VS Code**. Att bara "pro
 
 ---
 
-Nästa steg: [20-installera-windows.md](onboarding/20-installera-windows.md) eller [21-installera-linux-mac.md](onboarding/21-installera-linux-mac.md)
+Nästa steg: [20-installera-windows.md](20-installera-windows.md) eller [21-installera-linux-mac.md](21-installera-linux-mac.md)
