@@ -34,13 +34,13 @@ Gör de här dokumenten i ordning. Räkna med en kväll, mindre om allt går smi
 
 | # | Dokument | Vad du gör |
 |:-:|-------------------------|----------------------------------------|
-| 1 | `10-verktyg.md` | Läs igenom — vilka verktyg vi använder och varför |
-| 2 | `20-installera-windows.md` **eller** `21-installera-linux-mac.md` | Installera `uv` och Python 3.13 |
-| 3 | `30-texteditor.md` | Installera Visual Studio Code + extensionerna Python och Jupyter |
-| 4 | `40-uv-och-vscode.md` | Skapa ditt kursprojekt och koppla ihop uv med VS Code |
-| 5 | `50-jupyter.md` | Få igång Jupyter — används löpande under kursen |
-| 6 | `60-hello-world.md` | Skriv och kör ditt första program |
-| 7 | `ai-verktyg.md` | Läs kursens hållning till AI-verktyg |
+| 1 | [10-verktyg.md](onboarding/10-verktyg.md) | Läs igenom — vilka verktyg vi använder och varför |
+| 2 | [20-installera-windows.md](onboarding/20-installera-windows.md) **eller** [21-installera-linux-mac](onboarding/21-installera-linux-mac.md) | Installera `uv` och Python 3.13 |
+| 3 | [30-texteditor.md](onboarding/30-texteditor.md) | Installera Visual Studio Code + extensionerna Python och Jupyter |
+| 4 | [40-uv-och-vscode.md](onboarding/40-uv-och-vscode.md) | Skapa ditt kursprojekt och koppla ihop uv med VS Code |
+| 5 | [50-jupyter.md](onboarding/50-jupyter.md) | Få igång Jupyter — används löpande under kursen |
+| 6 | [60-hello-world.md](onboarding/60-hello-world.md) | Skriv och kör ditt första program |
+| 7 | [ai-verktyg.md](onboarding/ai-verktyg.md) | Läs kursens hållning till AI-verktyg |
 
 Varje dokument avslutas med en **"Vanliga fel"-lista** — kolla den först om något krånglar.
 Kör du fast: skriv upp exakt vad du gjorde och vilket felmeddelande du fick, och ta med det
@@ -48,4 +48,4 @@ till lektion 1 så löser vi det.
 
 ---
 
-Nästa steg: `10-verktyg.md`.
+Nästa steg: [10-verktyg.md](onboarding/10-verktyg.md)
